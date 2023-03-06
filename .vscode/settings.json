@@ -1,0 +1,8 @@
+{
+    "vscode-pets.petColor": "yellow",
+    "vscode-pets.petSize": "medium",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "luas": "cpp"
+    }
+}
